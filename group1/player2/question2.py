@@ -3,7 +3,7 @@
 
 def question():
     # 문제 : "투빅스 16기 파이팅!" 을 출력합니다
-    generation = 16
+    generation = '16'
     
     text = "투빅스 " + generation + "기 파이팅!"
 
